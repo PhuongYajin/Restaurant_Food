@@ -10,7 +10,7 @@ import Footer from '../../components/Footer';
 
 export default function Home() {
   return (
-    <div>
+    <>
       <Header />
       <Suggest />
       <Speciality />
@@ -19,6 +19,6 @@ export default function Home() {
       <Reviews />
       <Order />
       <Footer />
-    </div>
+    </>
   );
 }
