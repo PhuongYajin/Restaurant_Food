@@ -19,6 +19,14 @@ export default function Home() {
       <Reviews />
       <Order />
       <Footer />
+      <Header />
+      <Suggest />
+      <Speciality />
+      <Popular />
+      <Gallery />
+      <Reviews />
+      <Order />
+      <Footer />
     </>
   );
 }
